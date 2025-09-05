@@ -2,4 +2,4 @@
 
 ## Informações do participante
 - **Nome:** Leonardo Colombo  
-- **Curso:** Analise de Sistemas 
+- **Curso:** Analise e Desenvolvimento de Sistemas 
